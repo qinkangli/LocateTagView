@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="tag">
+        <attr name="centerX" format="float"/>
+        <attr name="centerY" format="float"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+
+</resources>
